@@ -1,0 +1,6 @@
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk11_event_Handling\ConsoleApplication8\ConsoleApplication9\test2\bin\Debug\test2.exe.config
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk11_event_Handling\ConsoleApplication8\ConsoleApplication9\test2\bin\Debug\test2.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk11_event_Handling\ConsoleApplication8\ConsoleApplication9\test2\bin\Debug\test2.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk11_event_Handling\ConsoleApplication8\ConsoleApplication9\test2\obj\Debug\test2.exe
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk11_event_Handling\ConsoleApplication8\ConsoleApplication9\test2\obj\Debug\test2.pdb
+C:\Users\Zoya\Google Drive\Semester-2\Comp-123 - Prog 2 - Narendra Pershad\Projects\Ayesha Manzar-Projects\wk11_event_Handling\ConsoleApplication8\ConsoleApplication9\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
